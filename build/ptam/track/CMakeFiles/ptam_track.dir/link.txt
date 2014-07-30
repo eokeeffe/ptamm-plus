@@ -1,0 +1,2 @@
+/usr/bin/ar cr libptam_track.a  CMakeFiles/ptam_track.dir/calib_corner_patch.cc.o CMakeFiles/ptam_track.dir/calib_image.cc.o CMakeFiles/ptam_track.dir/homography_init.cc.o CMakeFiles/ptam_track.dir/mini_patch.cc.o CMakeFiles/ptam_track.dir/patch_finder.cc.o CMakeFiles/ptam_track.dir/relocaliser.cc.o CMakeFiles/ptam_track.dir/tracker.cc.o
+/usr/bin/ranlib libptam_track.a

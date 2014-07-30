@@ -1,0 +1,14 @@
+#ifndef APPS_CALIBRATION_CONFIG_H
+#define APPS_CALIBRATION_CONFIG_H
+
+#cmakedefine CONFIG_DIR "@CONFIG_DIR@"
+
+#define CONFIG_FILE  "${CONFIG_DIR}/settings.cfg"
+#define CAMERA_CONFIG_FILE  "${CONFIG_DIR}/camera.cfg"
+
+
+#define DATA_PATH(file) CONFIG_DIR "/" file
+
+#undef BOOST_NO_INCLASS_MEMBER_INITIALIZATION
+
+#endif // APPS_CALIBRATION_CONFIG_H

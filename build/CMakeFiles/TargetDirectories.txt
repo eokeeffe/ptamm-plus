@@ -1,0 +1,9 @@
+/home/evan/ptam_plus/build/apps/calibration/CMakeFiles/calibrator.dir
+/home/evan/ptam_plus/build/ptam/construct/CMakeFiles/ptam_construct.dir
+/home/evan/ptam_plus/build/ptam/math/CMakeFiles/ptam_math.dir
+/home/evan/ptam_plus/build/ptam/sensor/CMakeFiles/ptam_sensor.dir
+/home/evan/ptam_plus/build/ptam/track/CMakeFiles/ptam_track.dir
+/home/evan/ptam_plus/build/ptam/ui/CMakeFiles/ptam_ui.dir
+/home/evan/ptam_plus/build/apps/slam/CMakeFiles/slam.dir
+/home/evan/ptam_plus/build/apps/slam/CMakeFiles/slam_glut.dir
+/home/evan/ptam_plus/build/ptam/test/CMakeFiles/test_ui_ar_render.dir

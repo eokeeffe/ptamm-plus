@@ -1,0 +1,2 @@
+/usr/bin/ar cr libptam_ui.a  CMakeFiles/ptam_ui.dir/ar_driver.cc.o CMakeFiles/ptam_ui.dir/ar_render.cc.o CMakeFiles/ptam_ui.dir/eye_game.cc.o CMakeFiles/ptam_ui.dir/gl_window_menu.cc.o CMakeFiles/ptam_ui.dir/gl_window2.cc.o CMakeFiles/ptam_ui.dir/map_viewer.cc.o
+/usr/bin/ranlib libptam_ui.a

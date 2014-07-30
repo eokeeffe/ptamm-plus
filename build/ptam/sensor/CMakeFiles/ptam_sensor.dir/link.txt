@@ -1,0 +1,2 @@
+/usr/bin/ar cr libptam_sensor.a  CMakeFiles/ptam_sensor.dir/video_source_linux_v4l.cc.o
+/usr/bin/ranlib libptam_sensor.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libptam_math.a  CMakeFiles/ptam_math.dir/atan_camera.cc.o
+/usr/bin/ranlib libptam_math.a

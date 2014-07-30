@@ -1,0 +1,2 @@
+/usr/bin/ar cr libptam_construct.a  CMakeFiles/ptam_construct.dir/bundle.cc.o CMakeFiles/ptam_construct.dir/keyframe.cc.o CMakeFiles/ptam_construct.dir/map_maker.cc.o CMakeFiles/ptam_construct.dir/map_point.cc.o CMakeFiles/ptam_construct.dir/map.cc.o CMakeFiles/ptam_construct.dir/shi_tomasi.cc.o CMakeFiles/ptam_construct.dir/small_blurry_image.cc.o
+/usr/bin/ranlib libptam_construct.a
